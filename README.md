@@ -42,11 +42,8 @@ The project uses two core technologies for hand tracking and icon overlay:
 
 ### Install the dependencies:
 Run the following command to install the required libraries:
-pip install opencv-python mediapipe numpy
+``pip install opencv-python mediapipe numpy``
 
-yaml
-Copy
-Edit
 
 ---
 
