@@ -1,4 +1,4 @@
-# 🤖 Finger Icon Detection ✋
+# 🤖 Finger Icon Detection 🤟
 
 **Finger Icon Detection** is an innovative project that uses **Python**, **OpenCV**, and **MediaPipe** to track hand gestures and overlay custom icons above raised fingers in real-time. Whether you're looking to experiment with hand tracking or create interactive visual effects, this project offers a creative platform for gesture recognition and icon placement.
 
@@ -52,11 +52,8 @@ Run the following command to install the required libraries:
 ### Step 1: Install Dependencies
 
 Run the following command to install the necessary libraries:
-pip install opencv-python mediapipe numpy
+``pip install opencv-python mediapipe numpy``
 
-markdown
-Copy
-Edit
 
 ### Step 2: Prepare Icons for Display
 
@@ -67,11 +64,7 @@ Edit
 ### Step 3: Run the Script
 
 Once your dependencies are installed and icons are ready, run the script with:
-python main.py
-
-yaml
-Copy
-Edit
+``python main.py``
 
 ### Step 4: Interact with the Program
 
