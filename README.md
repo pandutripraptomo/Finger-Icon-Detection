@@ -4,7 +4,7 @@
 
 This project is ideal for those interested in **computer vision**, **gesture recognition**, and building **interactive user experiences** with simple setups like a webcam.
 
-[Watch the Demo Video](https://github.com/pandutripraptomo/Finger-Icon-Detection/raw/main/FingerIcon.mp4)
+[Watch the Demo Video](FingerIcon.mp4)
 ---
 
 ## 🎨 Key Features
